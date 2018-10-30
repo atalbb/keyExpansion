@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540929513 source:c:\college\thesis\c projects\aes_256_enc_key_exp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint-gcc.h>
+
